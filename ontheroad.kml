@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Newark</name>
+            <Point id="2">
+                <coordinates>-74.1723667,40.735657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Liverpool</name>
+            <Point id="4">
+                <coordinates>-2.9805392,53.4054719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Indio</name>
+            <Point id="6">
+                <coordinates>-116.2188054,33.7192808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Chicago</name>
+            <Point id="8">
+                <coordinates>-87.6244212,41.8755616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Lake Shore</name>
+            <Point id="10">
+                <coordinates>-76.4849613,39.1070543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Laramie</name>
+            <Point id="12">
+                <coordinates>-105.591101,41.311367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Palm Springs</name>
+            <Point id="14">
+                <coordinates>-116.540303,33.8246269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Abilene</name>
+            <Point id="16">
+                <coordinates>-99.7333011,32.4466741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Potomac</name>
+            <Point id="18">
+                <coordinates>-77.2094542,39.017936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Dakar</name>
+            <Point id="20">
+                <coordinates>-17.447938,14.693425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Plymouth</name>
+            <Point id="22">
+                <coordinates>-4.1425658,50.3712659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Atlantis</name>
+            <Point id="24">
+                <coordinates>-80.1008762,26.5909025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Hidalgo</name>
+            <Point id="26">
+                <coordinates>-99.0,20.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>Chattanooga</name>
+            <Point id="28">
+                <coordinates>-85.3096801,35.0456297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Golden Gate</name>
+            <Point id="30">
+                <coordinates>-122.4797496,37.8303213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Passaic</name>
+            <Point id="32">
+                <coordinates>-74.3177933,41.0461864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>Elko</name>
+            <Point id="34">
+                <coordinates>-115.7630982,40.8324188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Washington</name>
+            <Point id="36">
+                <coordinates>-77.0365625,38.8950092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Las Cruces</name>
+            <Point id="38">
+                <coordinates>-106.7798078,32.3140354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>Boom</name>
+            <Point id="40">
+                <coordinates>4.3667216,51.0873789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Baton Rouge</name>
+            <Point id="42">
+                <coordinates>-91.18738,30.4459596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Corona</name>
+            <Point id="44">
+                <coordinates>-117.5664449,33.8752945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>Shenandoah</name>
+            <Point id="46">
+                <coordinates>-78.5890893,38.856559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>Pérez</name>
+            <Point id="48">
+                <coordinates>-75.7042217032696,4.7214846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Nice</name>
+            <Point id="50">
+                <coordinates>7.2683912,43.7009358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Carolina</name>
+            <Point id="52">
+                <coordinates>-75.3229229277351,6.7501787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>Longmont</name>
+            <Point id="54">
+                <coordinates>-105.1019287,40.1672117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Fort Worth</name>
+            <Point id="56">
+                <coordinates>-97.3327459,32.753177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Algiers</name>
+            <Point id="58">
+                <coordinates>2.9999825,28.0000272,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Des Moines</name>
+            <Point id="60">
+                <coordinates>-93.6037149,41.5910641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Paradise</name>
+            <Point id="62">
+                <coordinates>-115.1734142,36.1150858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>Opelousas</name>
+            <Point id="64">
+                <coordinates>-92.081509,30.5335302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>Marina</name>
+            <Point id="66">
+                <coordinates>-121.800639830262,36.6900785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>Tunis</name>
+            <Point id="68">
+                <coordinates>9.400138,33.8439408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>Austin</name>
+            <Point id="70">
+                <coordinates>-97.7436995,30.2711286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Ciudad Mante</name>
+            <Point id="72">
+                <coordinates>-98.9721879,22.7418851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>Corsico</name>
+            <Point id="74">
+                <coordinates>9.1094065,45.4328675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>Grand Island</name>
+            <Point id="76">
+                <coordinates>-98.338685,40.924271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>Sunset</name>
+            <Point id="78">
+                <coordinates>-121.651914,39.2504459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Iowa</name>
+            <Point id="80">
+                <coordinates>-93.3122705,41.9216734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Watsonville</name>
+            <Point id="82">
+                <coordinates>-121.769608972121,36.9529896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>Menton</name>
+            <Point id="84">
+                <coordinates>7.4966252,43.7751405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Castle Rock</name>
+            <Point id="86">
+                <coordinates>-104.8586706,39.3724232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>Okinawa</name>
+            <Point id="88">
+                <coordinates>128.0255901,26.5707754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>Same</name>
+            <Point id="90">
+                <coordinates>24.6707873,54.5041172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>San Antonio</name>
+            <Point id="92">
+                <coordinates>-98.4951405,29.4246002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>Kansas City</name>
+            <Point id="94">
+                <coordinates>-94.5781416,39.100105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>Baltimore</name>
+            <Point id="96">
+                <coordinates>-76.610759,39.2908816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>Folsom</name>
+            <Point id="98">
+                <coordinates>-121.1760583,38.6779591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>Truckee</name>
+            <Point id="100">
+                <coordinates>-120.1832533,39.327962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Bakersfield</name>
+            <Point id="102">
+                <coordinates>-119.0194639,35.3738712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>Evans</name>
+            <Point id="104">
+                <coordinates>-104.6921874,40.3763701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>Toronto</name>
+            <Point id="106">
+                <coordinates>-79.387207,43.653963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>Frisco</name>
+            <Point id="108">
+                <coordinates>-96.8236116,33.1506744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>Rio Grande</name>
+            <Point id="110">
+                <coordinates>-106.8578522108,34.34606035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>Ashtabula</name>
+            <Point id="112">
+                <coordinates>-80.74947,41.7167229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>Bali</name>
+            <Point id="114">
+                <coordinates>2.3514992,48.8566101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>Shelton</name>
+            <Point id="116">
+                <coordinates>-73.0931641,41.3164856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>Hudson</name>
+            <Point id="118">
+                <coordinates>-74.0550731,40.7381635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>New Delhi</name>
+            <Point id="120">
+                <coordinates>77.2022662,28.6141793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Blythe</name>
+            <Point id="122">
+                <coordinates>-114.91206909773,33.5603938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>Chihuahua</name>
+            <Point id="124">
+                <coordinates>-106.0000001,28.5000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>Petersburg</name>
+            <Point id="126">
+                <coordinates>30.316229,59.938732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>Mobile</name>
+            <Point id="128">
+                <coordinates>-88.0430541,30.6943566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>Colorado</name>
+            <Point id="130">
+                <coordinates>-105.6077167,38.7251776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Kansas</name>
+            <Point id="132">
+                <coordinates>-98.5821872,38.27312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>Roosevelt</name>
+            <Point id="134">
+                <coordinates>-104.9709901,48.3069516,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>Bar</name>
+            <Point id="136">
+                <coordinates>151.240178479571,-33.8440071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>Monterrey</name>
+            <Point id="138">
+                <coordinates>-100.293101629066,25.63978365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>San Francisco</name>
+            <Point id="140">
+                <coordinates>-122.4629897,37.7647993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>South Bend</name>
+            <Point id="142">
+                <coordinates>-86.2500066,41.6833813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>Venice</name>
+            <Point id="144">
+                <coordinates>12.3345898,45.4371908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>Man</name>
+            <Point id="146">
+                <coordinates>-4.51459874569825,54.2358167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>Mexico City</name>
+            <Point id="148">
+                <coordinates>-99.1333416,19.4326009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>Beverly</name>
+            <Point id="150">
+                <coordinates>-70.8800491,42.5584284,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>New Orleans</name>
+            <Point id="152">
+                <coordinates>-90.0701156,29.9499323,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>Madrid</name>
+            <Point id="154">
+                <coordinates>-3.7035825,40.4167047,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>Pittsburgh</name>
+            <Point id="156">
+                <coordinates>-79.9900861,40.4416941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>Vicksburg</name>
+            <Point id="158">
+                <coordinates>-90.8777342,32.3528418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>Virginia</name>
+            <Point id="160">
+                <coordinates>-78.4927721,37.1232245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>Richmond</name>
+            <Point id="162">
+                <coordinates>-77.43428,37.5385087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>Windsor</name>
+            <Point id="164">
+                <coordinates>-83.029861,42.30423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>Buffalo</name>
+            <Point id="166">
+                <coordinates>-78.8783922,42.8867166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>Long Island</name>
+            <Point id="168">
+                <coordinates>-64.8175626079731,32.28667415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>Council Bluffs</name>
+            <Point id="170">
+                <coordinates>-95.8613912,41.2621283,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>Paducah</name>
+            <Point id="172">
+                <coordinates>-88.6000478,37.0833893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>York</name>
+            <Point id="174">
+                <coordinates>-1.0815361,53.9590555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>Manteca</name>
+            <Point id="176">
+                <coordinates>-121.2117148,37.7986184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>Texas</name>
+            <Point id="178">
+                <coordinates>-99.5120986,31.8160381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>London</name>
+            <Point id="180">
+                <coordinates>-0.1276474,51.5073219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>Marseille</name>
+            <Point id="182">
+                <coordinates>5.3699525,43.2961743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>Terre Haute</name>
+            <Point id="184">
+                <coordinates>-87.4139119,39.4667025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>Most</name>
+            <Point id="186">
+                <coordinates>13.636112,50.5032737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>Trinidad</name>
+            <Point id="188">
+                <coordinates>-104.5005411,37.169397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>Flagstaff</name>
+            <Point id="190">
+                <coordinates>-111.6514259,35.199458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>Oakland</name>
+            <Point id="192">
+                <coordinates>-122.2713563,37.8044557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>Ruston</name>
+            <Point id="194">
+                <coordinates>-92.637927,32.5232053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>Florida</name>
+            <Point id="196">
+                <coordinates>-81.4639835,27.7567667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>Dallas</name>
+            <Point id="198">
+                <coordinates>-96.7968559,32.7762719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>Toledo</name>
+            <Point id="200">
+                <coordinates>-83.5127283,41.6786754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>Ontario</name>
+            <Point id="202">
+                <coordinates>-86.000977,50.000678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>Paterson</name>
+            <Point id="204">
+                <coordinates>-74.171811,40.9167654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>Fresno</name>
+            <Point id="206">
+                <coordinates>-119.708861260756,36.7295295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>Montemorelos</name>
+            <Point id="208">
+                <coordinates>-99.9036003340764,25.16329245,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>Pueblo</name>
+            <Point id="210">
+                <coordinates>-98.0,18.833333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Los Angeles</name>
+            <Point id="212">
+                <coordinates>-118.2427669,34.0536834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>Harrisburg</name>
+            <Point id="214">
+                <coordinates>-76.8861122,40.2663107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>Poughkeepsie</name>
+            <Point id="216">
+                <coordinates>-73.9284101,41.7065779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>Frederick</name>
+            <Point id="218">
+                <coordinates>-77.4109269,39.4142186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>Sousa</name>
+            <Point id="220">
+                <coordinates>-38.2319607,-6.7662029,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>Lowell</name>
+            <Point id="222">
+                <coordinates>-71.3161718,42.6334247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>Joliet</name>
+            <Point id="224">
+                <coordinates>-88.0840212,41.5263603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>Missoula</name>
+            <Point id="226">
+                <coordinates>-113.9952796,46.8700801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>Victoria</name>
+            <Point id="228">
+                <coordinates>144.6780052,-36.5986096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>Fayetteville</name>
+            <Point id="230">
+                <coordinates>-94.1574328,36.0625843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>Cincinnati</name>
+            <Point id="232">
+                <coordinates>-84.5124602,39.1014537,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>Michigan</name>
+            <Point id="234">
+                <coordinates>-84.6824346,43.6211955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>Sabinas Hidalgo</name>
+            <Point id="236">
+                <coordinates>-100.155030331045,26.5749243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>Rosedale</name>
+            <Point id="238">
+                <coordinates>-119.198810453292,35.3919202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>Along</name>
+            <Point id="240">
+                <coordinates>158.1122222,6.8983333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>Yonkers</name>
+            <Point id="242">
+                <coordinates>-73.8987469,40.9312099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>Pullman</name>
+            <Point id="244">
+                <coordinates>-117.173895,46.7304268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>Amarillo</name>
+            <Point id="246">
+                <coordinates>-101.8338246,35.2072185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>Oregon</name>
+            <Point id="248">
+                <coordinates>-120.737257,43.9792797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>Camberwell</name>
+            <Point id="250">
+                <coordinates>-0.0925416,51.4745706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>Camargo</name>
+            <Point id="252">
+                <coordinates>-98.8628524710301,26.1812678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>Bam</name>
+            <Point id="254">
+                <coordinates>-1.59866367803298,13.468115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>Greenville</name>
+            <Point id="256">
+                <coordinates>-82.3984882,34.851354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>Madera</name>
+            <Point id="258">
+                <coordinates>-119.7737991,37.1716264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>Missouri</name>
+            <Point id="260">
+                <coordinates>-92.5617875,38.7604815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>Boston</name>
+            <Point id="262">
+                <coordinates>-71.0582912,42.3602534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>Linares</name>
+            <Point id="264">
+                <coordinates>-99.4103418037624,24.85300565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>Philadelphia</name>
+            <Point id="266">
+                <coordinates>-75.1635755,39.9524152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>Dale</name>
+            <Point id="268">
+                <coordinates>-85.623763,31.3940969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>Macon</name>
+            <Point id="270">
+                <coordinates>-83.6324022,32.8406946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>Ashland</name>
+            <Point id="272">
+                <coordinates>-82.6379387,38.4784144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>Amsterdam</name>
+            <Point id="274">
+                <coordinates>4.89797550561798,52.3745403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>Brooklyn</name>
+            <Point id="276">
+                <coordinates>-73.9495823,40.6501038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>Federal</name>
+            <Point id="278">
+                <coordinates>-55.856704,-27.5011827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>Orleans</name>
+            <Point id="280">
+                <coordinates>-75.50996,45.4810426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>Wyoming</name>
+            <Point id="282">
+                <coordinates>-107.5685348,43.1700264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>Teresa</name>
+            <Point id="284">
+                <coordinates>-76.2810786,20.8219191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>Portland</name>
+            <Point id="286">
+                <coordinates>-122.6741949,45.5202471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>Maryland</name>
+            <Point id="288">
+                <coordinates>-76.9382069,39.5162234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>Lake Charles</name>
+            <Point id="290">
+                <coordinates>-93.2173759,30.2265949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>North Shore</name>
+            <Point id="292">
+                <coordinates>-95.2232497,30.0266871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>Bellevue</name>
+            <Point id="294">
+                <coordinates>-122.1923372,47.6144219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>Auckland</name>
+            <Point id="296">
+                <coordinates>174.7655514,-36.8534665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>Laredo</name>
+            <Point id="298">
+                <coordinates>-99.5088979,27.5060991,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>Dublin</name>
+            <Point id="300">
+                <coordinates>-6.2602732,53.3497645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>Greeley</name>
+            <Point id="302">
+                <coordinates>-104.7091322,40.4233142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>Colorado Springs</name>
+            <Point id="304">
+                <coordinates>-104.8253485,38.8339578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>Houston</name>
+            <Point id="306">
+                <coordinates>-95.3676974,29.7589382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>Toulouse</name>
+            <Point id="308">
+                <coordinates>1.4442469,43.6044622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>Seattle</name>
+            <Point id="310">
+                <coordinates>-122.3300624,47.6038321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>Newburgh</name>
+            <Point id="312">
+                <coordinates>-74.0104179,41.5034271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>Detroit</name>
+            <Point id="314">
+                <coordinates>-83.0466403,42.3315509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>Allentown</name>
+            <Point id="316">
+                <coordinates>-75.4712794,40.6022059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>Reno</name>
+            <Point id="318">
+                <coordinates>6.17787929192103,51.83706805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>Fredericksburg</name>
+            <Point id="320">
+                <coordinates>-77.4605399,38.3031837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>Wilson</name>
+            <Point id="322">
+                <coordinates>-95.7452639,37.5692118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>Iowa City</name>
+            <Point id="324">
+                <coordinates>-91.5299106,41.6612561,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>Milano</name>
+            <Point id="326">
+                <coordinates>9.1904984,45.4667971,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>Kearney</name>
+            <Point id="328">
+                <coordinates>-99.081858,40.699478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>University</name>
+            <Point id="330">
+                <coordinates>-1.25166460220888,51.7520849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>Indianapolis</name>
+            <Point id="332">
+                <coordinates>-86.1583502,39.7683331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>Rock Island</name>
+            <Point id="334">
+                <coordinates>-90.5787477,41.5094771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>Mary</name>
+            <Point id="336">
+                <coordinates>61.8397667,37.5941357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>Houma</name>
+            <Point id="338">
+                <coordinates>-90.7195348,29.5957696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>Tracy</name>
+            <Point id="340">
+                <coordinates>-121.4252227,37.7396513,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>Esmeralda</name>
+            <Point id="342">
+                <coordinates>-117.6419239,37.8066689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>Vienna</name>
+            <Point id="344">
+                <coordinates>16.3725042,48.2083537,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>Memphis</name>
+            <Point id="346">
+                <coordinates>-90.0516285,35.1490215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>Stuart</name>
+            <Point id="348">
+                <coordinates>-80.2519175,27.197983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>Best</name>
+            <Point id="350">
+                <coordinates>5.39866199005647,51.510017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>Tokyo</name>
+            <Point id="352">
+                <coordinates>139.7594549,35.6828387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>Hollywood</name>
+            <Point id="354">
+                <coordinates>-118.3299899,34.1028268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>Santa Anita</name>
+            <Point id="356">
+                <coordinates>-103.44532,20.5503169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>Salt Lake</name>
+            <Point id="358">
+                <coordinates>-111.9103124,40.6632297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>Davenport</name>
+            <Point id="360">
+                <coordinates>-90.5776368,41.5236436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>Omaha</name>
+            <Point id="362">
+                <coordinates>-95.9378732,41.2587317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>Berkeley</name>
+            <Point id="364">
+                <coordinates>-122.2728639,37.8708393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>Manhattan</name>
+            <Point id="366">
+                <coordinates>-73.9598295,40.7900869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>Ogden</name>
+            <Point id="368">
+                <coordinates>-111.9738429,41.2230048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>Natchez</name>
+            <Point id="370">
+                <coordinates>-91.403171,31.5604442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>Paris</name>
+            <Point id="372">
+                <coordinates>2.3514992,48.8566101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>Sterling</name>
+            <Point id="374">
+                <coordinates>-89.6962194,41.788642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>Charleston</name>
+            <Point id="376">
+                <coordinates>-79.9402728,32.7876012,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>Cheyenne</name>
+            <Point id="378">
+                <coordinates>-104.820246,41.139981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>Hoboken</name>
+            <Point id="380">
+                <coordinates>-74.0323752,40.7433066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>Columbus</name>
+            <Point id="382">
+                <coordinates>-83.0007065,39.9622601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>Acapulco</name>
+            <Point id="384">
+                <coordinates>-84.7816996793368,10.1779876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>Beaumont</name>
+            <Point id="386">
+                <coordinates>2.6567465,50.0839627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>North Platte</name>
+            <Point id="388">
+                <coordinates>-100.7654232,41.1238873,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>Johnson</name>
+            <Point id="390">
+                <coordinates>-88.8844045,37.4501818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>El Paso</name>
+            <Point id="392">
+                <coordinates>-106.487287,31.7600372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>Madison</name>
+            <Point id="394">
+                <coordinates>-89.3837613,43.074761,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>Lubbock</name>
+            <Point id="396">
+                <coordinates>-101.8551665,33.5778631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>Mission</name>
+            <Point id="398">
+                <coordinates>-98.3252932,26.2159066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>Tulare</name>
+            <Point id="400">
+                <coordinates>-118.852583,36.2516475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>Rome</name>
+            <Point id="402">
+                <coordinates>12.4853384,41.894802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>Johannesburg</name>
+            <Point id="404">
+                <coordinates>28.049722,-26.205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>Denver</name>
+            <Point id="406">
+                <coordinates>-104.984696,39.7391428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>Moscow</name>
+            <Point id="408">
+                <coordinates>37.6176606,55.7507178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>Santa Fe</name>
+            <Point id="410">
+                <coordinates>-60.7019561,-31.6186951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>Limón</name>
+            <Point id="412">
+                <coordinates>-85.5230296329603,15.78960545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>Roy</name>
+            <Point id="414">
+                <coordinates>-112.0261903,41.1617999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>Nuevo Laredo</name>
+            <Point id="416">
+                <coordinates>-99.6769171753306,27.4751071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>New York</name>
+            <Point id="418">
+                <coordinates>-73.9871558,40.7308619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>Montana</name>
+            <Point id="420">
+                <coordinates>-109.6387579,47.3752671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>Of</name>
+            <Point id="422">
+                <coordinates>40.2751769378287,40.8825914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>Bradford</name>
+            <Point id="424">
+                <coordinates>-1.7519186,53.7944229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>Arcadia</name>
+            <Point id="426">
+                <coordinates>-118.0401497,34.1362075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>Green</name>
+            <Point id="428">
+                <coordinates>-10.7083587,10.7226226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>Gap</name>
+            <Point id="430">
+                <coordinates>6.0820018,44.5611978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>Newton</name>
+            <Point id="432">
+                <coordinates>-71.2092214,42.3370414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>Oklahoma</name>
+            <Point id="434">
+                <coordinates>-97.2684063,34.9550817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>Tucson</name>
+            <Point id="436">
+                <coordinates>-110.9262353,32.2218917,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

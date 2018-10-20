@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>San Blas</name>
+            <Point id="2">
+                <coordinates>-78.2057648,0.4120178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>San Pablo</name>
+            <Point id="4">
+                <coordinates>-49.0232348,-21.9549806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Bahía Blanca</name>
+            <Point id="6">
+                <coordinates>-62.266245,-38.7182364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Necochea</name>
+            <Point id="8">
+                <coordinates>-58.7392705,-38.5545049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Santa Lucía</name>
+            <Point id="10">
+                <coordinates>-60.975036,13.8250489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Esmeralda</name>
+            <Point id="12">
+                <coordinates>-117.6419239,37.8066689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Callao</name>
+            <Point id="14">
+                <coordinates>-77.15,-12.066667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Tingo María</name>
+            <Point id="16">
+                <coordinates>-76.0003034,-9.2983713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Santa Clara</name>
+            <Point id="18">
+                <coordinates>-121.9551744,37.3541132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>San Martín</name>
+            <Point id="20">
+                <coordinates>-2.1762273,43.0065863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>La Guaira</name>
+            <Point id="22">
+                <coordinates>-54.2567519,-24.0851924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>La Oroya</name>
+            <Point id="24">
+                <coordinates>-70.3223571,-13.3939055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Abancay</name>
+            <Point id="26">
+                <coordinates>-72.8788744,-13.6373482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>Hermosa</name>
+            <Point id="28">
+                <coordinates>-87.7345019,41.928643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Huánuco</name>
+            <Point id="30">
+                <coordinates>-76.2394845,-9.9293255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Tacna</name>
+            <Point id="32">
+                <coordinates>-70.2511597,-18.0138696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>Of</name>
+            <Point id="34">
+                <coordinates>40.2751769378287,40.8825914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Huambo</name>
+            <Point id="36">
+                <coordinates>15.7320468,-12.7765392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Lima</name>
+            <Point id="38">
+                <coordinates>-77.0365256,-12.0621065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>Iquitos</name>
+            <Point id="40">
+                <coordinates>-73.2444145,-3.749365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>La Victoria</name>
+            <Point id="42">
+                <coordinates>144.6780052,-36.5986096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>San Antonio</name>
+            <Point id="44">
+                <coordinates>-98.4951405,29.4246002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>Iquique</name>
+            <Point id="46">
+                <coordinates>-70.1524646,-20.2140657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>Havana</name>
+            <Point id="48">
+                <coordinates>-82.3589631,23.135305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Temple</name>
+            <Point id="50">
+                <coordinates>-97.3427847,31.098207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Arica</name>
+            <Point id="52">
+                <coordinates>-70.3210596,-18.478518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>Miami</name>
+            <Point id="54">
+                <coordinates>-80.1936589,25.7742658,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Austin</name>
+            <Point id="56">
+                <coordinates>-97.7436995,30.2711286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Puno</name>
+            <Point id="58">
+                <coordinates>-70.0278704,-15.8404252,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Pucallpa</name>
+            <Point id="60">
+                <coordinates>-74.5387507,-8.3820737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Norton</name>
+            <Point id="62">
+                <coordinates>-99.9100033,39.7944702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>Paris</name>
+            <Point id="64">
+                <coordinates>2.3514992,48.8566101,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>Rosario</name>
+            <Point id="66">
+                <coordinates>-60.6615415,-32.9595004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>Along</name>
+            <Point id="68">
+                <coordinates>158.1122222,6.8983333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>Corona</name>
+            <Point id="70">
+                <coordinates>-117.5664449,33.8752945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Andahuaylas</name>
+            <Point id="72">
+                <coordinates>-73.3899459,-13.6564057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>Valenza</name>
+            <Point id="74">
+                <coordinates>8.6458214,45.0140247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>Ilave</name>
+            <Point id="76">
+                <coordinates>-69.0179822,-15.3655745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>Rome</name>
+            <Point id="78">
+                <coordinates>12.4853384,41.894802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Alta Gracia</name>
+            <Point id="80">
+                <coordinates>-64.4275843,-31.65803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Lautaro</name>
+            <Point id="82">
+                <coordinates>-72.4350504,-38.534312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>Buenos Aires</name>
+            <Point id="84">
+                <coordinates>-58.437076,-34.6075616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Villa Gesell</name>
+            <Point id="86">
+                <coordinates>-56.9680922,-37.255634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>Tarma</name>
+            <Point id="88">
+                <coordinates>-75.416667,-11.166667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>Miramar</name>
+            <Point id="90">
+                <coordinates>-80.3347212811522,25.97591145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Man</name>
+            <Point id="92">
+                <coordinates>-4.51459874569825,54.2358167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>Temuco</name>
+            <Point id="94">
+                <coordinates>-72.5905979,-38.7362442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>Liberal</name>
+            <Point id="96">
+                <coordinates>-100.920999,37.0430812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>Valparaíso</name>
+            <Point id="98">
+                <coordinates>-71.6196749,-33.0458456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>Bogotá</name>
+            <Point id="100">
+                <coordinates>-74.0761028,4.5980772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Gálvez</name>
+            <Point id="102">
+                <coordinates>-4.2722961,39.7002686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>Molina</name>
+            <Point id="104">
+                <coordinates>-16.6605747,28.1077453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>University</name>
+            <Point id="106">
+                <coordinates>-1.25166460220888,51.7520849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>Osorno</name>
+            <Point id="108">
+                <coordinates>-73.1359011,-40.5733223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>Allende</name>
+            <Point id="110">
+                <coordinates>-105.383870313154,27.03471715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>San Francisco</name>
+            <Point id="112">
+                <coordinates>-122.4629897,37.7647993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>San Cristóbal</name>
+            <Point id="114">
+                <coordinates>-72.2214154,7.7756663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>Antofagasta</name>
+            <Point id="116">
+                <coordinates>-70.3980033,-23.6463741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>Aventura</name>
+            <Point id="118">
+                <coordinates>-80.1366459706593,25.953257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>Sicuani</name>
+            <Point id="120">
+                <coordinates>-70.5125412,-16.1339894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>San Carlos</name>
+            <Point id="122">
+                <coordinates>120.324983767341,15.90752735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>Los Ángeles</name>
+            <Point id="124">
+                <coordinates>-118.2427669,34.0536834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>Cerro de Pasco</name>
+            <Point id="126">
+                <coordinates>-76.254916,-10.6667815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>Juliaca</name>
+            <Point id="128">
+                <coordinates>-70.132216,-15.4915945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>Asia</name>
+            <Point id="130">
+                <coordinates>103.9999998,56.0000002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Ayacucho</name>
+            <Point id="132">
+                <coordinates>-74.2256973,-13.1604269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>Cúcuta</name>
+            <Point id="134">
+                <coordinates>-72.5080387,7.8971458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>Santiago</name>
+            <Point id="136">
+                <coordinates>-70.6504451,-33.4377968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>Tocopilla</name>
+            <Point id="138">
+                <coordinates>-70.1960362,-22.088781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>Alliance</name>
+            <Point id="140">
+                <coordinates>-81.1059309,40.9153362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>Caracas</name>
+            <Point id="142">
+                <coordinates>-66.9146017,10.506098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>Calama</name>
+            <Point id="144">
+                <coordinates>-68.9272181,-22.4623917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>Washington</name>
+            <Point id="146">
+                <coordinates>-77.0365625,38.8950092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>Córdoba</name>
+            <Point id="148">
+                <coordinates>-4.7760131,37.8849779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>Leticia</name>
+            <Point id="150">
+                <coordinates>-70.0885162871149,-3.58082345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>Valdivia</name>
+            <Point id="152">
+                <coordinates>-73.2458525,-39.8141965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>Santo Domingo</name>
+            <Point id="154">
+                <coordinates>-69.942111,18.4801972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>March</name>
+            <Point id="156">
+                <coordinates>16.8493842,50.2051313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>Inca</name>
+            <Point id="158">
+                <coordinates>2.9111493,39.7211448,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
