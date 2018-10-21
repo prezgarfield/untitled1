@@ -13,9 +13,7 @@ import csv
 
 
 def hello():
-    print("Hello")
-    print("Computers are fun")
-    print("oh hey it worked")
+    print("Working on it...")
 
 def createKML(list):
     geolocator = Nominatim()
@@ -26,8 +24,8 @@ def createKML(list):
     for entry in list:
         location = geolocator.geocode(entry)
         if location:
-            kml.newpoint(name=entry, coords=[(location.longitude, location.latitude)])
-
+            point = kml.newpoint(name=entry, coords=[(location.longitude, location.latitude)])
+            point.description = "point description is a go!"
 
     kml.save("ontheroad.kml")
 
