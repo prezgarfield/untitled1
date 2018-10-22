@@ -47,5 +47,5 @@ def pullStuff(file):
 
 if __name__ == '__main__':
     hello()
-    print(pullStuff('c:/program files/jetbrains/pycharm 2018.2.4/ontheroad.txt'))
+    print(pullStuff('ontheroad.txt'))
     exit()
