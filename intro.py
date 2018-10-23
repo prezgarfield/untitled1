@@ -15,7 +15,7 @@ import csv
 def hello():
     print("Working on it...")
 
-def createKML(list):
+def createKML(list, raw):
     geolocator = Nominatim()
 
     kml = simplekml.Kml()
@@ -24,13 +24,19 @@ def createKML(list):
     for entry in list:
         location = geolocator.geocode(entry)
         if location:
+            wordloc = raw.find(entry)
             point = kml.newpoint(name=entry, coords=[(location.longitude, location.latitude)])
-            point.description = "point description is a go!"
+            #needs out of bounds error check for character number
+            if wordloc > -1:
+                description = raw[wordloc - 300: wordloc + 300]
+                point.description = "..." + description + "..."
+            else:
+                point.description = "Error retrieving text"
 
     kml.save("ontheroad.kml")
 
-def makePlaces(list):
-    createKML(list)
+def makePlaces(list, raw):
+    createKML(list, raw)
     return list
 
 def pullStuff(file):
@@ -41,7 +47,8 @@ def pullStuff(file):
     sents = [nltk.word_tokenize(sent) for sent in sents]
     sents = [nltk.pos_tag(sent) for sent in sents]
     places = GeoText(raw)
-    return makePlaces(list(set(places.cities)))
+    listn = list(set(places.cities))
+    return makePlaces(listn, raw)
 
 
 
